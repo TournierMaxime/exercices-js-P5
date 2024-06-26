@@ -1,4 +1,3 @@
-import somme from '../../Exercice8/script'
 import checkAge from "../../Exercice9/script";
 
 describe('Unit Test for checkAge', () => {
